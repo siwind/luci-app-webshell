@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Web Shell"
+msgstr "Web 终端"
+
+msgid "A simple Web Shell"
+msgstr "一个简单的Web终端"
+
+msgid "Used to execute simple shell command with return values."
+msgstr "用于执行带返回值的shell命令."
+
+msgid "Run"
+msgstr "运行"
+
+msgid "Command :"
+msgstr "Shell 命令 :"
+
+msgid "Result :"
+msgstr "运行的结果 :"
+
+msgid "command execution return values."
+msgstr "命令执行后的返回结果."
+
+
