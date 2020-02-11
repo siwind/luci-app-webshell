@@ -23,7 +23,7 @@ function vCmd.write(self, s, val)
 		re=""
 	end
 
-	m.message = "command = " .. "<b><font color=\"red\">" .. val .."</font></b>" .. "<br/><pre>" .. re .. "</pre>"
+	m.message = "<b># &ensp;" .. "<font color=\"red\">" .. val .."</font></b>" .. "<br/><pre>" .. re .. "</pre>"
 end
 
 --m.message="Hello, Web Shell!"
