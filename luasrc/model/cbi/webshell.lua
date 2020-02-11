@@ -10,7 +10,7 @@ vCmd = s:option(Value, "cmd", translatef("Command :"),"")
 vCmd.datatype = "string"
 vCmd.size = 40
 
-vLabel = s:option(DummyValue,"result", translatef("Result :"), translate("command execution return values.") )
+vLabel = s:option(DummyValue,"result", translatef("Result :"), translate("command execution return values.") .. "<br/>" .. translate("Do not execute commands such as <b><font color=\"blue\">ping, top</font></b>, etc. which do not return values immediately!") )
 
 function vCmd.write(self, s, val)
 	local re = ""

@@ -27,4 +27,6 @@ msgstr "运行的结果 :"
 msgid "command execution return values."
 msgstr "命令执行后的返回结果."
 
+msgid "Do not execute commands such as <b><font color=\"blue\">ping, top</font></b>, etc. which do not return values immediately!"
+msgstr "不要执行没有立即返回值的命令, 例如 <b><font color=\"blue\">ping, top</font></b> 等。"
 
